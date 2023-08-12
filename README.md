@@ -1,6 +1,6 @@
 ## Hey!👋
 I'm Shahnawaz Alam. <br>
-currently pursuing diploma in Computer Science Engineering.<br>
+currently pursuing Bachelor's in Computer Science Engineering.<br>
 #### Aspiring to become a full stack developer 🎯
 
 
