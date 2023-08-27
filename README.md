@@ -1,6 +1,6 @@
 ## Hey!👋
 I'm Shahnawaz Alam. <br>
-currently pursuing Bachelor's in Computer Science Engineering.<br>
+
 
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=shahnawaz-alam37&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
