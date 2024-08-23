@@ -2,7 +2,7 @@
 
 - 🌱 Learning Never Stops 🚀
 
-- 💬 Ask me about **Web Development, Java, DBMS, MySQL**
+- 💬 Ask me about **Web Development,Nodejs, Java, MySQL**
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shahnawaz-alam37&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> 
